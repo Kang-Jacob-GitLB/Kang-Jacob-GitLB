@@ -92,30 +92,30 @@ Sunday                   201 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Kotlin                   6 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   31.87 % 
-C++                      3 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
-Markdown                 2 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-XML                      1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
-Bash                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+Kotlin                   3 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
+C++                      3 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
+Markdown                 2 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+XML                      1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+C#                       1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
 
 🔥 Editors: 
-Cursor                   12 hrs 6 mins       ████████████████░░░░░░░░░   62.08 % 
-Claude Code              5 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   26.57 % 
-VS Code                  1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
-Android Studio           29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
-Visual Studio            12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Cursor                   11 hrs              ██████████████████░░░░░░░   70.01 % 
+Claude Code              3 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
+VS Code                  1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+Visual Studio            12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+Android Studio           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🐱‍💻 Projects: 
-Episodive                7 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   39.08 % 
-avmc-app                 4 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
-svm-calibrator           3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-istauto                  1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
-JikkoLAB-flask           29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+avmc-app                 4 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   30.80 % 
+Episodive                4 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   28.96 % 
+svm-calibrator           3 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
+istauto                  1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+eyeL                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 
 💻 Operating System: 
-Mac                      8 hrs 20 mins       ███████████░░░░░░░░░░░░░░   42.75 % 
-Windows                  5 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   29.47 % 
-WSL                      5 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   27.78 % 
+Windows                  5 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   36.57 % 
+WSL                      5 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   34.47 % 
+Mac                      4 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   28.96 % 
 ```
 
 **I Mostly Code in Java** 
@@ -131,7 +131,7 @@ BitBake                  1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on June 10, 2026 at 00:57:09 UTC
+ Last Updated on June 11, 2026 at 00:56:46 UTC
 <!--END_SECTION:waka-->
 
 </br>
