@@ -65,59 +65,6 @@ I enjoy refactoring legacy code into kotlin.
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                4292 commits        ███████░░░░░░░░░░░░░░░░░░   28.64 % 
-🌆 Daytime                7314 commits        ████████████░░░░░░░░░░░░░   48.81 % 
-🌃 Evening                3189 commits        █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
-🌙 Night                  189 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   2711 commits        █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
-Tuesday                  3335 commits        ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
-Wednesday                2768 commits        █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
-Thursday                 3634 commits        ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
-Friday                   2201 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-Saturday                 134 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-Sunday                   201 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-C++                      2 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   28.28 % 
-Kotlin                   2 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   25.80 % 
-Markdown                 1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-C#                       1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-XML                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-
-🔥 Editors: 
-Cursor                   7 hrs 2 mins        ██████████████████░░░░░░░   70.23 % 
-Claude Code              1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-VS Code                  1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-Visual Studio            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-Android Studio           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-
-🐱‍💻 Projects: 
-svm-calibrator           3 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   31.43 % 
-Episodive                2 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   26.28 % 
-avmc-app                 2 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   25.18 % 
-istauto                  1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-cav5000hd                19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-
-💻 Operating System: 
-Windows                  4 hrs 51 mins       ████████████░░░░░░░░░░░░░   48.54 % 
-Mac                      2 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   26.28 % 
-WSL                      2 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   25.18 % 
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -131,7 +78,7 @@ BitBake                  1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on June 12, 2026 at 00:59:53 UTC
+ Last Updated on June 13, 2026 at 00:58:03 UTC
 <!--END_SECTION:waka-->
 
 </br>
