@@ -51,13 +51,13 @@ I enjoy refactoring legacy code into kotlin.
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.08%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.06%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 234.4 kB Used in GitHub's Storage 
  > 
-> 🏆 412 Contributions in the Year 2026
+> 🏆 423 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -68,21 +68,21 @@ I enjoy refactoring legacy code into kotlin.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4295 commits        ███████░░░░░░░░░░░░░░░░░░   28.65 % 
-🌆 Daytime                7320 commits        ████████████░░░░░░░░░░░░░   48.83 % 
-🌃 Evening                3187 commits        █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
-🌙 Night                  189 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+🌞 Morning                4280 commits        ███████░░░░░░░░░░░░░░░░░░   28.65 % 
+🌆 Daytime                7301 commits        ████████████░░░░░░░░░░░░░   48.88 % 
+🌃 Evening                3168 commits        █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
+🌙 Night                  189 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   2711 commits        █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
-Tuesday                  3340 commits        ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
-Wednesday                2765 commits        █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
-Thursday                 3633 commits        ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
-Friday                   2207 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
-Saturday                 134 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-Sunday                   201 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+Monday                   2716 commits        █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Tuesday                  3325 commits        ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
+Wednesday                2747 commits        █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
+Thursday                 3622 commits        ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
+Friday                   2193 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+Saturday                 134 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+Sunday                   201 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 ```
 
 
@@ -92,28 +92,23 @@ Sunday                   201 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-C++                      2 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   38.37 % 
-Markdown                 1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-C#                       1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-XML                      31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+C++                      3 hrs 33 mins       █████████████░░░░░░░░░░░░   53.37 % 
+INI                      1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+Markdown                 53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Git Config               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+YAML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
 
 🔥 Editors: 
-Cursor                   5 hrs 5 mins        █████████████████░░░░░░░░   69.01 % 
-VS Code                  1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-Claude Code              52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-Visual Studio            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+Cursor                   4 hrs 39 mins       █████████████████░░░░░░░░   69.82 % 
+Claude Code              1 hr 42 mins        ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
+VS Code                  18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
 
 🐱‍💻 Projects: 
-svm-calibrator           3 hrs 8 mins        ███████████░░░░░░░░░░░░░░   42.63 % 
-avmc-app                 2 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   34.15 % 
-istauto                  1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-cav5000hd                19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
-eyeL                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+avmc-app                 6 hrs 36 mins       █████████████████████████   98.84 % 
+lbsvm-app                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 💻 Operating System: 
-Windows                  4 hrs 51 mins       ████████████████░░░░░░░░░   65.85 % 
-WSL                      2 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   34.15 % 
+WSL                      6 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -129,7 +124,7 @@ BitBake                  1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on June 15, 2026 at 01:01:23 UTC
+ Last Updated on June 16, 2026 at 01:05:20 UTC
 <!--END_SECTION:waka-->
 
 </br>
