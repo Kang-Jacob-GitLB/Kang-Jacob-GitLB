@@ -92,26 +92,27 @@ Sunday                   201 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-C++                      12 hrs 30 mins      ████████████░░░░░░░░░░░░░   47.54 % 
-Markdown                 6 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   26.39 % 
-INI                      2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-JSON                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-Python                   55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+C++                      12 hrs 30 mins      ███████████░░░░░░░░░░░░░░   45.84 % 
+Markdown                 7 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   27.70 % 
+INI                      2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+JSON                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+Python                   55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
 
 🔥 Editors: 
-Cursor                   22 hrs 4 mins       █████████████████████░░░░   83.90 % 
-Claude Code              3 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-VS Code                  18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+Cursor                   22 hrs 25 mins      █████████████████████░░░░   82.23 % 
+Claude Code              4 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+VS Code                  18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 
 🐱‍💻 Projects: 
-avmc-app                 25 hrs 41 mins      ████████████████████████░   97.67 % 
-lbsvm-app                32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
-lbgui                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+avmc-app                 25 hrs 41 mins      ████████████████████████░   94.18 % 
+JikkoLab-android         58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+lbsvm-app                32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+lbgui                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 lbsvm                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-lbx                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-WSL                      26 hrs 18 mins      █████████████████████████   100.00 % 
+WSL                      26 hrs 18 mins      ████████████████████████░   96.42 % 
+Mac                      58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
 ```
 
 **I Mostly Code in Java** 
@@ -127,7 +128,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on June 21, 2026 at 00:58:17 UTC
+ Last Updated on June 22, 2026 at 00:58:41 UTC
 <!--END_SECTION:waka-->
 
 </br>
