@@ -57,7 +57,7 @@ I enjoy refactoring legacy code into kotlin.
 
 > 📦 235.6 kB Used in GitHub's Storage 
  > 
-> 🏆 903 Contributions in the Year 2026
+> 🏆 907 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -68,21 +68,21 @@ I enjoy refactoring legacy code into kotlin.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2802 commits        ██████░░░░░░░░░░░░░░░░░░░   25.39 % 
-🌆 Daytime                5288 commits        ████████████░░░░░░░░░░░░░   47.92 % 
-🌃 Evening                2722 commits        ██████░░░░░░░░░░░░░░░░░░░   24.67 % 
-🌙 Night                  223 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+🌞 Morning                2772 commits        ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
+🌆 Daytime                5264 commits        ████████████░░░░░░░░░░░░░   48.02 % 
+🌃 Evening                2704 commits        ██████░░░░░░░░░░░░░░░░░░░   24.66 % 
+🌙 Night                  223 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1795 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-Tuesday                  2500 commits        ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
-Wednesday                2115 commits        █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
-Thursday                 2381 commits        █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
-Friday                   1884 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
-Saturday                 179 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-Sunday                   181 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Monday                   1794 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+Tuesday                  2484 commits        ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
+Wednesday                2100 commits        █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
+Thursday                 2374 commits        █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
+Friday                   1851 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
+Saturday                 179 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Sunday                   181 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 ```
 
 
@@ -92,26 +92,26 @@ Sunday                   181 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-C++                      5 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   41.24 % 
-Markdown                 3 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   27.58 % 
-JavaScript               1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-JSON                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
-Bash                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+C++                      3 hrs 43 mins       ██████████████████░░░░░░░   71.86 % 
+JSON                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+Text                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Markdown                 20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+Python                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 46 mins      ████████████████████████░   95.67 % 
-Cursor                   31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+Claude Code              4 hrs 52 mins       ████████████████████████░   94.03 % 
+Cursor                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
 
 🐱‍💻 Projects: 
-avmc-app                 9 hrs 22 mins       ███████████████████░░░░░░   76.13 % 
-JikkoLab-android         2 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
-JikkoLAB-docker          30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-canalyst-controller      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-lbsvm-app                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+avmc-app                 4 hrs 49 mins       ███████████████████████░░   92.81 % 
+JikkoLab-android         12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+canalyst-controller      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+lbsvm-app                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+lbx                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 💻 Operating System: 
-WSL                      9 hrs 37 mins       ████████████████████░░░░░   78.28 % 
-Mac                      2 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
+WSL                      4 hrs 59 mins       ████████████████████████░   96.10 % 
+Mac                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
 ```
 
 **I Mostly Code in C++** 
@@ -127,7 +127,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on July 20, 2026 at 02:35:06 UTC
+ Last Updated on July 21, 2026 at 00:54:31 UTC
 <!--END_SECTION:waka-->
 
 </br>
