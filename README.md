@@ -47,19 +47,19 @@ I enjoy refactoring legacy code into kotlin.
 # WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C367%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C370%20hrs%2023%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-441%20hrs%2031%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-444%20hrs%2010%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.72%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.71%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 291.1 kB Used in GitHub's Storage 
+> 📦 291.2 kB Used in GitHub's Storage 
  > 
-> 🏆 1,091 Contributions in the Year 2026
+> 🏆 1,095 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -70,21 +70,21 @@ I enjoy refactoring legacy code into kotlin.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1821 commits        ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
-🌆 Daytime                3422 commits        ███████████░░░░░░░░░░░░░░   45.79 % 
-🌃 Evening                1980 commits        ███████░░░░░░░░░░░░░░░░░░   26.50 % 
-🌙 Night                  250 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+🌞 Morning                1783 commits        ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
+🌆 Daytime                3359 commits        ███████████░░░░░░░░░░░░░░   45.66 % 
+🌃 Evening                1960 commits        ███████░░░░░░░░░░░░░░░░░░   26.64 % 
+🌙 Night                  254 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1066 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-Tuesday                  1911 commits        ██████░░░░░░░░░░░░░░░░░░░   25.57 % 
-Wednesday                1411 commits        █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
-Thursday                 1383 commits        █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
-Friday                   1352 commits        █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
-Saturday                 203 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-Sunday                   147 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Monday                   1037 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+Tuesday                  1907 commits        ██████░░░░░░░░░░░░░░░░░░░   25.92 % 
+Wednesday                1405 commits        █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+Thursday                 1301 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
+Friday                   1358 commits        █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
+Saturday                 201 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+Sunday                   147 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 ```
 
 
@@ -94,38 +94,67 @@ Sunday                   147 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Kotlin                   4 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   25.55 % 
+Markdown                 4 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   25.04 % 
+Python                   1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+Text                     1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+Bash                     1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              17 hrs 49 mins      █████████████████████████   98.98 % 
+Cursor                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Episodive                8 hrs 25 mins       ████████████░░░░░░░░░░░░░   46.74 % 
+svm-calibrator           6 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   37.37 % 
+JikkoLab-android         50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+istauto                  46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+resume                   25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      9 hrs 41 mins       █████████████░░░░░░░░░░░░   53.81 % 
+Windows                  8 hrs 19 mins       ████████████░░░░░░░░░░░░░   46.19 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 17 hrs 51 mins (99.11%)
+
+✍️ 9,629 lines written by AI, 517 lines written by hand (94.9% AI-written)
+
+🔤 22,451,887 Input Tokens, 2,023,385 Output Tokens
+
+💵 $338.21 Estimated AI Cost This Week
+
+🧠 30 AI Sessions, 187 AI Prompts
+
+Opus                     9,195 lines         ████████████████████████░   94.72 % 
+Sonnet                   513 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 94.9% of written lines came from AI
+📚 Verbose Prompter — average 5,839 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 5.07% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
 
 ```text
-C++                      23 repos            █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
-JavaScript               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
-Shell                    7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
-HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+C++                      23 repos            █████░░░░░░░░░░░░░░░░░░░░   20.72 % 
+JavaScript               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+Shell                    7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 ```
 
 
 
 
- Last Updated on August 12, 2026 at 02:31:58 UTC
+ Last Updated on August 13, 2026 at 02:31:17 UTC
 <!--END_SECTION:waka-->
 
 </br>
