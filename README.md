@@ -94,51 +94,51 @@ Sunday                   144 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 7 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   37.87 % 
-Kotlin                   4 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
-Python                   1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-Text                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-Bash                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+Markdown                 6 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   36.98 % 
+Kotlin                   2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+Python                   1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+Text                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+Bash                     1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
 
 🔥 Editors: 
-Claude Code              19 hrs 51 mins      ████████████████████████░   97.71 % 
-Cursor                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+Claude Code              16 hrs 4 mins       ████████████████████████░   97.19 % 
+Cursor                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
 
 🐱‍💻 Projects: 
-Episodive                9 hrs               ███████████░░░░░░░░░░░░░░   44.32 % 
-svm-calibrator           5 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   29.20 % 
-travel                   3 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-JikkoLab-android         50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-istauto                  41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+svm-calibrator           5 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   35.85 % 
+Episodive                5 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   31.63 % 
+travel                   3 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
+JikkoLab-android         50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+istauto                  41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 
 💻 Operating System: 
-Mac                      11 hrs 45 mins      ██████████████░░░░░░░░░░░   57.88 % 
-Windows                  8 hrs 33 mins       ███████████░░░░░░░░░░░░░░   42.12 % 
+Windows                  8 hrs 33 mins       █████████████░░░░░░░░░░░░   51.71 % 
+Mac                      7 hrs 59 mins       ████████████░░░░░░░░░░░░░   48.29 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 9 mins (99.21%)
+⏱ AI Coding Time: 16 hrs 23 mins (99.03%)
 
-✍️ 10,295 lines written by AI, 517 lines written by hand (95.22% AI-written)
+✍️ 8,805 lines written by AI, 517 lines written by hand (94.45% AI-written)
 
-🔤 21,951,580 Input Tokens, 2,501,549 Output Tokens
+🔤 16,895,116 Input Tokens, 2,114,143 Output Tokens
 
-💵 $376.30 Estimated AI Cost This Week
+💵 $291.91 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 211 AI Prompts
+🧠 26 AI Sessions, 196 AI Prompts
 
-Opus                     9,738 lines         ███████████████████████░░   93.90 % 
-Sonnet                   633 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+Opus                     8,224 lines         ███████████████████████░░   92.85 % 
+Sonnet                   633 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.22% of written lines came from AI
-📚 Verbose Prompter — average 6,016 characters per prompt
+🤖 AI-Driven — 94.45% of written lines came from AI
+📚 Verbose Prompter — average 6,313 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 4.76% of changed lines were hand-edited
+🚀 High AI Trust — 5.53% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -154,7 +154,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on August 15, 2026 at 01:41:25 UTC
+ Last Updated on August 16, 2026 at 01:49:01 UTC
 <!--END_SECTION:waka-->
 
 </br>
