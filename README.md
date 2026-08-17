@@ -94,51 +94,51 @@ Sunday                   144 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 6 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   36.98 % 
-Kotlin                   2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-Python                   1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-Text                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
-Bash                     1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+Markdown                 6 hrs 6 mins        ███████████░░░░░░░░░░░░░░   43.22 % 
+Kotlin                   1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+Text                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+Bash                     1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+C#                       59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
 
 🔥 Editors: 
-Claude Code              16 hrs 4 mins       ████████████████████████░   97.19 % 
-Cursor                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+Claude Code              13 hrs 39 mins      ████████████████████████░   96.70 % 
+Cursor                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
 
 🐱‍💻 Projects: 
-svm-calibrator           5 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   35.85 % 
-Episodive                5 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   31.63 % 
-travel                   3 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
-JikkoLab-android         50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
-istauto                  41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+svm-calibrator           5 hrs 55 mins       ███████████░░░░░░░░░░░░░░   42.03 % 
+travel                   3 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+Episodive                2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
+JikkoLab-android         50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+istauto                  41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
 
 💻 Operating System: 
-Windows                  8 hrs 33 mins       █████████████░░░░░░░░░░░░   51.71 % 
-Mac                      7 hrs 59 mins       ████████████░░░░░░░░░░░░░   48.29 % 
+Windows                  8 hrs 33 mins       ███████████████░░░░░░░░░░   60.61 % 
+Mac                      5 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   39.39 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 23 mins (99.03%)
+⏱ AI Coding Time: 13 hrs 57 mins (98.87%)
 
-✍️ 8,805 lines written by AI, 517 lines written by hand (94.45% AI-written)
+✍️ 8,154 lines written by AI, 517 lines written by hand (94.04% AI-written)
 
-🔤 16,895,116 Input Tokens, 2,114,143 Output Tokens
+🔤 10,753,555 Input Tokens, 1,730,834 Output Tokens
 
-💵 $291.91 Estimated AI Cost This Week
+💵 $238.61 Estimated AI Cost This Week
 
-🧠 26 AI Sessions, 196 AI Prompts
+🧠 23 AI Sessions, 154 AI Prompts
 
-Opus                     8,224 lines         ███████████████████████░░   92.85 % 
-Sonnet                   633 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     8,066 lines         █████████████████████████   98.53 % 
+Sonnet                   120 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.45% of written lines came from AI
-📚 Verbose Prompter — average 6,313 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 5.53% of changed lines were hand-edited
+🤖 AI-Driven — 94.04% of written lines came from AI
+📚 Verbose Prompter — average 7,581 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 5.95% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -154,7 +154,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on August 16, 2026 at 01:49:01 UTC
+ Last Updated on August 17, 2026 at 01:46:04 UTC
 <!--END_SECTION:waka-->
 
 </br>
