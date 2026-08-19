@@ -57,9 +57,9 @@ I enjoy refactoring legacy code into kotlin.
 
 **🐱 My GitHub Data** 
 
-> 📦 291.2 kB Used in GitHub's Storage 
+> 📦 291.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1,099 Contributions in the Year 2026
+> 🏆 1,101 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -70,19 +70,19 @@ I enjoy refactoring legacy code into kotlin.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1650 commits        ██████░░░░░░░░░░░░░░░░░░░   24.10 % 
-🌆 Daytime                3103 commits        ███████████░░░░░░░░░░░░░░   45.32 % 
-🌃 Evening                1861 commits        ███████░░░░░░░░░░░░░░░░░░   27.18 % 
-🌙 Night                  233 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+🌞 Morning                1643 commits        ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
+🌆 Daytime                3092 commits        ███████████░░░░░░░░░░░░░░   45.21 % 
+🌃 Evening                1869 commits        ███████░░░░░░░░░░░░░░░░░░   27.33 % 
+🌙 Night                  235 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   930 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-Tuesday                  1808 commits        ███████░░░░░░░░░░░░░░░░░░   26.41 % 
-Wednesday                1287 commits        █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
-Thursday                 1191 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-Friday                   1311 commits        █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
+Monday                   927 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Tuesday                  1810 commits        ███████░░░░░░░░░░░░░░░░░░   26.47 % 
+Wednesday                1282 commits        █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+Thursday                 1190 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
+Friday                   1310 commits        █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
 Saturday                 186 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 Sunday                   134 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 ```
@@ -94,51 +94,51 @@ Sunday                   134 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 5 hrs 18 mins       █████████████░░░░░░░░░░░░   50.37 % 
-Text                     1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-Kotlin                   1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-C#                       57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-XML                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Markdown                 4 hrs 56 mins       ███████████████░░░░░░░░░░   61.06 % 
+Kotlin                   1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+C#                       55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+Other                    36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+PowerShell               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
 
 🔥 Editors: 
-Claude Code              10 hrs 3 mins       ████████████████████████░   95.58 % 
-Cursor                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+Claude Code              7 hrs 36 mins       ████████████████████████░   94.21 % 
+Cursor                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
 
 🐱‍💻 Projects: 
-svm-calibrator           3 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   35.53 % 
-travel                   3 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   28.73 % 
-Episodive                2 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   23.52 % 
-istauto                  41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
-Unknown Project          18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+travel                   3 hrs 1 min         █████████░░░░░░░░░░░░░░░░   37.43 % 
+Episodive                2 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   32.86 % 
+svm-calibrator           1 hr 47 mins        ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
+Unknown Project          18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+resume                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
 
 💻 Operating System: 
-Windows                  6 hrs 21 mins       ███████████████░░░░░░░░░░   60.45 % 
-Mac                      4 hrs 9 mins        ██████████░░░░░░░░░░░░░░░   39.55 % 
+Mac                      4 hrs 21 mins       █████████████░░░░░░░░░░░░   53.89 % 
+Windows                  3 hrs 43 mins       ████████████░░░░░░░░░░░░░   46.11 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 22 mins (98.48%)
+⏱ AI Coding Time: 7 hrs 55 mins (98.02%)
 
-✍️ 5,077 lines written by AI, 517 lines written by hand (90.76% AI-written)
+✍️ 3,675 lines written by AI, 517 lines written by hand (87.67% AI-written)
 
-🔤 9,172,042 Input Tokens, 1,437,343 Output Tokens
+🔤 6,513,388 Input Tokens, 1,338,529 Output Tokens
 
-💵 $183.19 Estimated AI Cost This Week
+💵 $137.62 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 128 AI Prompts
+🧠 16 AI Sessions, 101 AI Prompts
 
-Opus                     4,984 lines         ████████████████████████░   97.65 % 
-Sonnet                   120 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+Opus                     3,581 lines         ████████████████████████░   96.76 % 
+Sonnet                   120 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.76% of written lines came from AI
-📚 Verbose Prompter — average 8,843 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 9.22% of changed lines were hand-edited
+🤖 AI-Driven — 87.67% of written lines came from AI
+📚 Verbose Prompter — average 11,177 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 12.28% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -154,7 +154,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on August 18, 2026 at 01:36:45 UTC
+ Last Updated on August 19, 2026 at 01:45:24 UTC
 <!--END_SECTION:waka-->
 
 </br>
