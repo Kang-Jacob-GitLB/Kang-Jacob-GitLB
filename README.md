@@ -70,21 +70,21 @@ I enjoy refactoring legacy code into kotlin.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                942 commits         █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
-🌆 Daytime                1846 commits        ██████████░░░░░░░░░░░░░░░   40.41 % 
-🌃 Evening                1514 commits        ████████░░░░░░░░░░░░░░░░░   33.14 % 
-🌙 Night                  266 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+🌞 Morning                942 commits         █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
+🌆 Daytime                1852 commits        ██████████░░░░░░░░░░░░░░░   40.38 % 
+🌃 Evening                1526 commits        ████████░░░░░░░░░░░░░░░░░   33.28 % 
+🌙 Night                  266 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   451 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
-Tuesday                  1407 commits        ████████░░░░░░░░░░░░░░░░░   30.80 % 
-Wednesday                769 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-Thursday                 624 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-Friday                   962 commits         █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
-Saturday                 213 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-Sunday                   142 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+Monday                   451 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+Tuesday                  1411 commits        ████████░░░░░░░░░░░░░░░░░   30.77 % 
+Wednesday                772 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+Thursday                 635 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+Friday                   962 commits         █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
+Saturday                 213 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+Sunday                   142 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 ```
 
 
@@ -94,50 +94,50 @@ Sunday                   142 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 7 hrs 38 mins       █████████████░░░░░░░░░░░░   53.39 % 
-HTML                     1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-Python                   1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-C++                      1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
-Bash                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+Markdown                 2 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   23.18 % 
+TypeScript               1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+HTML                     1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+Python                   1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+C++                      56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
 
 🔥 Editors: 
-Claude Code              13 hrs 40 mins      ████████████████████████░   95.56 % 
-Cursor                   38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Claude Code              11 hrs 26 mins      ████████████████████████░   94.37 % 
+Cursor                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
 
 🐱‍💻 Projects: 
-avmc-app                 5 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   38.13 % 
-eyeL                     3 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   25.63 % 
-svm-calibrator           2 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
-mccm                     1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-s3000abr                 58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+svm-calibrator           5 hrs 32 mins       ███████████░░░░░░░░░░░░░░   45.72 % 
+avmc-app                 3 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   32.90 % 
+mccm                     1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+s3000abr                 58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+portfolio                17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 
 💻 Operating System: 
-WSL                      10 hrs 5 mins       ██████████████████░░░░░░░   70.55 % 
-Windows                  4 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   29.45 % 
+Windows                  7 hrs 10 mins       ███████████████░░░░░░░░░░   59.12 % 
+WSL                      4 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   40.88 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 7 mins (98.72%)
+⏱ AI Coding Time: 11 hrs 56 mins (98.49%)
 
-✍️ 2,595 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 6,391 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 14,085,514 Input Tokens, 2,429,905 Output Tokens
+🔤 15,016,280 Input Tokens, 2,372,915 Output Tokens
 
-💵 $305.28 Estimated AI Cost This Week
+💵 $333.56 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 139 AI Prompts
+🧠 18 AI Sessions, 82 AI Prompts
 
-Opus                     2,601 lines         █████████████████████████   100.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     6,033 lines         ███████████████████████░░   93.35 % 
+Sonnet                   430 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,542 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📚 Verbose Prompter — average 3,118 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -154,7 +154,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on August 31, 2026 at 04:56:33 UTC
+ Last Updated on September 01, 2026 at 04:37:17 UTC
 <!--END_SECTION:waka-->
 
 </br>
