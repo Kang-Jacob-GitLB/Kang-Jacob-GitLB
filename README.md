@@ -53,7 +53,7 @@ I enjoy refactoring legacy code into kotlin.
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.11%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.12%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -63,28 +63,28 @@ I enjoy refactoring legacy code into kotlin.
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 35 Public Repositories 
+> 📜 30 Public Repositories 
  > 
 > 🔑 6 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                947 commits         █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
-🌆 Daytime                1862 commits        ██████████░░░░░░░░░░░░░░░   40.31 % 
-🌃 Evening                1543 commits        ████████░░░░░░░░░░░░░░░░░   33.41 % 
-🌙 Night                  267 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+🌞 Morning                947 commits         █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
+🌆 Daytime                1873 commits        ██████████░░░░░░░░░░░░░░░   40.37 % 
+🌃 Evening                1553 commits        ████████░░░░░░░░░░░░░░░░░   33.47 % 
+🌙 Night                  267 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   451 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-Tuesday                  1426 commits        ████████░░░░░░░░░░░░░░░░░   30.87 % 
-Wednesday                775 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
-Thursday                 644 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-Friday                   968 commits         █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
-Saturday                 213 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-Sunday                   142 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+Monday                   451 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+Tuesday                  1450 commits        ████████░░░░░░░░░░░░░░░░░   31.25 % 
+Wednesday                759 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+Thursday                 640 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+Friday                   985 commits         █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
+Saturday                 213 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+Sunday                   142 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 ```
 
 
@@ -94,39 +94,39 @@ Sunday                   142 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               1 hr 51 mins        ██████████░░░░░░░░░░░░░░░   39.34 % 
-C++                      1 hr 11 mins        ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
-C#                       33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Markdown                 20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
-Python                   17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+TypeScript               1 hr 51 mins        ███████████░░░░░░░░░░░░░░   42.48 % 
+C++                      50 mins             █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
+C#                       33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+Markdown                 20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+Python                   17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 39 mins       █████████████████████████   98.99 % 
-Cursor                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Claude Code              4 hrs 19 mins       █████████████████████████   98.91 % 
+Cursor                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 
 🐱‍💻 Projects: 
-svm-calibrator           3 hrs 31 mins       ███████████████████░░░░░░   74.68 % 
-lbgui                    1 hr 2 mins         ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
-istauto                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
-s3000abr                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+svm-calibrator           3 hrs 31 mins       ████████████████████░░░░░   80.64 % 
+lbgui                    41 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+istauto                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+s3000abr                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 
 💻 Operating System: 
-Windows                  3 hrs 36 mins       ███████████████████░░░░░░   76.43 % 
-WSL                      1 hr 6 mins         ██████░░░░░░░░░░░░░░░░░░░   23.57 % 
+Windows                  3 hrs 36 mins       █████████████████████░░░░   82.53 % 
+WSL                      45 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 42 mins (100.0%)
+⏱ AI Coding Time: 4 hrs 21 mins (100.0%)
 
 ✍️ 5,102 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 5,714,629 Input Tokens, 936,923 Output Tokens
+🔤 5,640,958 Input Tokens, 902,987 Output Tokens
 
-💵 $143.73 Estimated AI Cost This Week
+💵 $142.13 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 21 AI Prompts
+🧠 6 AI Sessions, 14 AI Prompts
 
 Opus                     4,738 lines         ███████████████████████░░   91.68 % 
 Sonnet                   430 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
@@ -135,8 +135,8 @@ Composer                 0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 7,390 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📚 Verbose Prompter — average 10,320 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -153,7 +153,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on September 03, 2026 at 03:59:08 UTC
+ Last Updated on September 04, 2026 at 04:01:00 UTC
 <!--END_SECTION:waka-->
 
 </br>
