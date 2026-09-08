@@ -53,13 +53,13 @@ I enjoy refactoring legacy code into kotlin.
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.12%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.15%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 291.9 kB Used in GitHub's Storage 
  > 
-> 🏆 1,163 Contributions in the Year 2026
+> 🏆 1,165 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -70,21 +70,21 @@ I enjoy refactoring legacy code into kotlin.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                953 commits         █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
-🌆 Daytime                1881 commits        ██████████░░░░░░░░░░░░░░░   40.35 % 
-🌃 Evening                1561 commits        ████████░░░░░░░░░░░░░░░░░   33.48 % 
-🌙 Night                  267 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+🌞 Morning                956 commits         █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
+🌆 Daytime                1885 commits        ██████████░░░░░░░░░░░░░░░   40.35 % 
+🌃 Evening                1564 commits        ████████░░░░░░░░░░░░░░░░░   33.48 % 
+🌙 Night                  267 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   453 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-Tuesday                  1459 commits        ████████░░░░░░░░░░░░░░░░░   31.30 % 
-Wednesday                766 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-Thursday                 631 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-Friday                   998 commits         █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
-Saturday                 213 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
-Sunday                   142 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+Monday                   454 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+Tuesday                  1467 commits        ████████░░░░░░░░░░░░░░░░░   31.40 % 
+Wednesday                766 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+Thursday                 626 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+Friday                   1004 commits        █████░░░░░░░░░░░░░░░░░░░░   21.49 % 
+Saturday                 213 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+Sunday                   142 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
 ```
 
 
@@ -94,47 +94,22 @@ Sunday                   142 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               1 hr 51 mins        █████████████░░░░░░░░░░░░   51.47 % 
-C#                       33 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
-Markdown                 20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-Python                   17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
-JavaScript               16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              3 hrs 33 mins       █████████████████████████   98.68 % 
-Cursor                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-svm-calibrator           3 hrs 31 mins       ████████████████████████░   97.70 % 
-istauto                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 36 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 36 mins (100.0%)
-
-✍️ 5,102 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 5,086,417 Input Tokens, 782,712 Output Tokens
-
-💵 $135.24 Estimated AI Cost This Week
-
-🧠 4 AI Sessions, 11 AI Prompts
-
-Opus                     4,738 lines         ███████████████████████░░   91.68 % 
-Sonnet                   430 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
-Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 11,622 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -150,7 +125,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on September 07, 2026 at 04:01:35 UTC
+ Last Updated on September 08, 2026 at 04:04:28 UTC
 <!--END_SECTION:waka-->
 
 </br>
