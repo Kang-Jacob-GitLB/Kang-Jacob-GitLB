@@ -51,40 +51,40 @@ I enjoy refactoring legacy code into kotlin.
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-466%20hrs%2022%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.35%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.19%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 291.8 kB Used in GitHub's Storage 
+> 📦 297.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1,197 Contributions in the Year 2026
+> 🏆 1,207 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 30 Public Repositories 
  > 
-> 🔑 6 Private Repositories 
+> 🔑 7 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1006 commits        █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
-🌆 Daytime                1972 commits        ██████████░░░░░░░░░░░░░░░   40.90 % 
-🌃 Evening                1577 commits        ████████░░░░░░░░░░░░░░░░░   32.70 % 
-🌙 Night                  267 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+🌞 Morning                977 commits         █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
+🌆 Daytime                1920 commits        ██████████░░░░░░░░░░░░░░░   40.70 % 
+🌃 Evening                1553 commits        ████████░░░░░░░░░░░░░░░░░   32.92 % 
+🌙 Night                  267 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   484 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
-Tuesday                  1510 commits        ████████░░░░░░░░░░░░░░░░░   31.31 % 
-Wednesday                774 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-Thursday                 640 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-Friday                   1059 commits        █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
-Saturday                 213 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
-Sunday                   142 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Monday                   464 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+Tuesday                  1481 commits        ████████░░░░░░░░░░░░░░░░░   31.40 % 
+Wednesday                760 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
+Thursday                 628 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+Friday                   1029 commits        █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
+Saturday                 213 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+Sunday                   142 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
 ```
 
 
@@ -94,38 +94,64 @@ Sunday                   142 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     44 mins             ███████░░░░░░░░░░░░░░░░░░   26.99 % 
+Text                     39 mins             ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
+Batchfile                28 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
+Other                    27 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
+Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              2 hrs 42 mins       █████████████████████████   99.02 % 
+Android Studio           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+svm-calibrator           2 hrs 26 mins       ██████████████████████░░░   89.31 % 
+mccm                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+LiveView                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 2 hrs 42 mins (99.02%)
+
+✍️ 184 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 1,524,213 Input Tokens, 169,281 Output Tokens
+
+💵 $26.91 Estimated AI Cost This Week
+
+🧠 4 AI Sessions, 24 AI Prompts
+
+Fable                    166 lines           █████████████████████░░░░   82.59 % 
+Opus                     35 lines            ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 1,936 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
 
 ```text
-C++                      21 repos            █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
-JavaScript               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
-Shell                    7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
-HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+C++                      21 repos            █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
+JavaScript               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+Shell                    7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 ```
 
 
 
 
- Last Updated on September 15, 2026 at 04:25:43 UTC
+ Last Updated on September 16, 2026 at 04:21:31 UTC
 <!--END_SECTION:waka-->
 
 </br>
