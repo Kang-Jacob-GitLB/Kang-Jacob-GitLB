@@ -47,9 +47,9 @@ I enjoy refactoring legacy code into kotlin.
 # WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C397%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C397%20hrs%2027%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-472%20hrs%2037%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-472%20hrs%2046%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -59,7 +59,7 @@ I enjoy refactoring legacy code into kotlin.
 
 > 📦 297.4 kB Used in GitHub's Storage 
  > 
-> 🏆 1,243 Contributions in the Year 2026
+> 🏆 1,247 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -70,21 +70,21 @@ I enjoy refactoring legacy code into kotlin.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                988 commits         █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
-🌆 Daytime                1941 commits        ██████████░░░░░░░░░░░░░░░   40.55 % 
-🌃 Evening                1591 commits        ████████░░░░░░░░░░░░░░░░░   33.24 % 
-🌙 Night                  267 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+🌞 Morning                981 commits         █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
+🌆 Daytime                1936 commits        ██████████░░░░░░░░░░░░░░░   40.58 % 
+🌃 Evening                1587 commits        ████████░░░░░░░░░░░░░░░░░   33.26 % 
+🌙 Night                  267 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   471 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-Tuesday                  1509 commits        ████████░░░░░░░░░░░░░░░░░   31.52 % 
-Wednesday                775 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-Thursday                 634 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-Friday                   1043 commits        █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
-Saturday                 213 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-Sunday                   142 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+Monday                   469 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+Tuesday                  1500 commits        ████████░░░░░░░░░░░░░░░░░   31.44 % 
+Wednesday                773 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+Thursday                 638 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Friday                   1036 commits        █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
+Saturday                 213 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+Sunday                   142 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
 ```
 
 
@@ -94,49 +94,50 @@ Sunday                   142 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JSON                     44 mins             ██████░░░░░░░░░░░░░░░░░░░   25.04 % 
-Text                     39 mins             ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
-Other                    29 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
-Batchfile                28 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-Dart                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+Markdown                 3 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
+HTML                     2 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
+JavaScript               1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+Other                    1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+JSON                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 55 mins       █████████████████████████   98.70 % 
-Android Studio           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Claude Code              12 hrs 54 mins      █████████████████████████   99.64 % 
+Android Studio           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Cursor                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🐱‍💻 Projects: 
-svm-calibrator           2 hrs 29 mins       █████████████████████░░░░   84.23 % 
-mccm                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
-LiveView                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-test-2026-09_stability   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+svm-calibrator           10 hrs 34 mins      ████████████████████░░░░░   81.55 % 
+LiveView                 1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+mccm                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+s3000abr                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+test-2026-09_stability   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 💻 Operating System: 
-Windows                  2 hrs 57 mins       █████████████████████████   100.00 % 
+Windows                  12 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 55 mins (99.09%)
+⏱ AI Coding Time: 12 hrs 55 mins (99.79%)
 
-✍️ 184 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,729 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,990,110 Input Tokens, 174,410 Output Tokens
+🔤 6,544,507 Input Tokens, 1,092,120 Output Tokens
 
-💵 $32.46 Estimated AI Cost This Week
+💵 $175.88 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 26 AI Prompts
+🧠 13 AI Sessions, 121 AI Prompts
 
-Fable                    166 lines           █████████████████████░░░░   82.59 % 
-Opus                     35 lines            ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+Opus                     1,054 lines         ███████████████░░░░░░░░░░   59.65 % 
+Fable                    713 lines           ██████████░░░░░░░░░░░░░░░   40.35 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,804 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📚 Verbose Prompter — average 1,729 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -153,7 +154,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on September 18, 2026 at 04:13:32 UTC
+ Last Updated on September 19, 2026 at 04:08:29 UTC
 <!--END_SECTION:waka-->
 
 </br>
