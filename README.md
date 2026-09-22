@@ -53,13 +53,13 @@ I enjoy refactoring legacy code into kotlin.
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.19%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.20%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 297.4 kB Used in GitHub's Storage 
  > 
-> 🏆 1,253 Contributions in the Year 2026
+> 🏆 1,254 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -70,21 +70,21 @@ I enjoy refactoring legacy code into kotlin.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                982 commits         █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
-🌆 Daytime                1937 commits        ██████████░░░░░░░░░░░░░░░   40.58 % 
-🌃 Evening                1587 commits        ████████░░░░░░░░░░░░░░░░░   33.25 % 
-🌙 Night                  267 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+🌞 Morning                988 commits         █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
+🌆 Daytime                1939 commits        ██████████░░░░░░░░░░░░░░░   40.46 % 
+🌃 Evening                1598 commits        ████████░░░░░░░░░░░░░░░░░   33.35 % 
+🌙 Night                  267 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   469 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-Tuesday                  1500 commits        ████████░░░░░░░░░░░░░░░░░   31.43 % 
-Wednesday                774 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-Thursday                 639 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-Friday                   1036 commits        █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
-Saturday                 213 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-Sunday                   142 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+Monday                   473 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+Tuesday                  1511 commits        ████████░░░░░░░░░░░░░░░░░   31.53 % 
+Wednesday                777 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+Thursday                 640 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+Friday                   1036 commits        █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
+Saturday                 213 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Sunday                   142 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
 ```
 
 
@@ -94,50 +94,49 @@ Sunday                   142 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 3 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
-HTML                     2 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
-JavaScript               1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-Other                    1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-JSON                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+JavaScript               1 hr 42 mins        ███████░░░░░░░░░░░░░░░░░░   26.45 % 
+Markdown                 45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+JSON                     44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+Other                    44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+Text                     42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
 
 🔥 Editors: 
-Claude Code              12 hrs 54 mins      █████████████████████████   99.64 % 
-Android Studio           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-Cursor                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Claude Code              6 hrs 23 mins       █████████████████████████   99.27 % 
+Android Studio           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Cursor                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🐱‍💻 Projects: 
-svm-calibrator           10 hrs 34 mins      ████████████████████░░░░░   81.55 % 
-LiveView                 1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-mccm                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
-s3000abr                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-test-2026-09_stability   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+svm-calibrator           4 hrs 28 mins       █████████████████░░░░░░░░   69.66 % 
+LiveView                 1 hr 27 mins        ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
+mccm                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+test-2026-09_stability   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 💻 Operating System: 
-Windows                  12 hrs 57 mins      █████████████████████████   100.00 % 
+Windows                  6 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 55 mins (99.79%)
+⏱ AI Coding Time: 6 hrs 24 mins (99.58%)
 
-✍️ 1,729 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 783 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 6,544,507 Input Tokens, 1,092,120 Output Tokens
+🔤 5,250,504 Input Tokens, 753,953 Output Tokens
 
-💵 $175.88 Estimated AI Cost This Week
+💵 $101.13 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 121 AI Prompts
+🧠 10 AI Sessions, 46 AI Prompts
 
-Opus                     1,054 lines         ███████████████░░░░░░░░░░   59.65 % 
-Fable                    713 lines           ██████████░░░░░░░░░░░░░░░   40.35 % 
+Fable                    713 lines           ██████████████████████░░░   86.85 % 
+Opus                     108 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,729 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
+📚 Verbose Prompter — average 1,736 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -154,7 +153,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on September 21, 2026 at 04:25:30 UTC
+ Last Updated on September 22, 2026 at 04:22:35 UTC
 <!--END_SECTION:waka-->
 
 </br>
