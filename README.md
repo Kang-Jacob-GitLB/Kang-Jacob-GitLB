@@ -51,7 +51,7 @@ I enjoy refactoring legacy code into kotlin.
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-472%20hrs%2046%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.91%20million%20lines%20of%20code-blue?style=flat)
 
@@ -94,38 +94,22 @@ Sunday                   142 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Dart                     9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-LiveView                 9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 mins (100.0%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 454,801 Input Tokens, 1,948 Output Tokens
-
-💵 $5.20 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 2 AI Prompts
-
-Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 230 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -141,7 +125,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on September 24, 2026 at 04:16:28 UTC
+ Last Updated on September 25, 2026 at 04:28:16 UTC
 <!--END_SECTION:waka-->
 
 </br>
